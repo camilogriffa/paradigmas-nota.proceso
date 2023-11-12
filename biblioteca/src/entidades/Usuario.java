@@ -1,5 +1,5 @@
 package entidades;
-
+// TODO: implementar metodo registrar USUARIO;
 public class Usuario {
   public int id;
   public String nombre;
